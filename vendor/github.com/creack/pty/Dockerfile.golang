@@ -1,4 +1,4 @@
-ARG GOVERSION=1.14
+ARG GOVERSION=1.21.1 
 FROM golang:${GOVERSION}
 
 # Set base env.
