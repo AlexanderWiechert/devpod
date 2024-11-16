@@ -6,7 +6,7 @@
 # Go tests use this curl binary for integration tests.
 #
 
-FROM ubuntu:focal-20230605
+FROM ubuntu:20.04
 
 RUN apt-get update && \
     apt-get upgrade -y && \
