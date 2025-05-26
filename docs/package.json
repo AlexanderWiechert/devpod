@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@docusaurus/core": "^3.5.2",
-    "@docusaurus/preset-classic": "^3.5.2",
+    "@docusaurus/preset-classic": "^3.7.0",
     "classnames": "^2.2.6",
     "docusaurus": "^1.14.7",
     "docusaurus-gtm-plugin": "^0.0.2",
